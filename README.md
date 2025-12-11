@@ -12,7 +12,7 @@
 		background-attachment: fixed;
 		color: #fff;
 		font-size: 20px;
-		font-family: Candara, Calibri, Segoe UI, sans-serif;
+		font-family: "candara", "calibri", "segoe ui", "sans-serif";
 	}
 	nav {
 		background-color: rgba(0,0,0,0.5);
@@ -30,7 +30,7 @@
 		font-weight: bold;
     }
     nav a:hover {
-		color: #BB8AFB; 
+		color: #bb8afb; 
 	}
 	a {
 		text-decoration: none;
@@ -38,7 +38,7 @@
 	}
 	a:hover {
 		letter-spacing: 4px;
-		color: #BB8AFB;
+		color: #bb8afb;
 	}
 	#main {
 		width: 70%;
@@ -108,7 +108,7 @@
 	}
 	hr {
 		border: none;
-		border-top: 2px solid #BB8AFB;
+		border-top: 2px solid #bb8afb;
 		width: 50%;
 		margin: 40px auto;
 		animation: expandWidth 5s ease-in-out forwards infinite alternate;
@@ -122,7 +122,7 @@
 		bottom: 20px;
 		font-size: 2rem;
 		animation: bounce 2s infinite;
-		color: #BB8AFB;
+		color: #bb8afb;
 	}
 	@keyframes bounce {
 		0%, 100% { transform: translateY(0); }
